@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beginning
-date: 2000-09-06 21:46
+date: 2020-09-06 21:46
 categories: coding
 ---
 *by josiahkeeler*
