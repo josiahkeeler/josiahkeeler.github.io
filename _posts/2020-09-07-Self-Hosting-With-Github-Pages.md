@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Self Hosting With Github Pages
-date: 2000-09-07 23:01
+date: 2020-09-07 23:01
 categories: coding
 ---
 *by josiahkeeler*
