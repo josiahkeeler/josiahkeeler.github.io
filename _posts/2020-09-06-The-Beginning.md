@@ -4,8 +4,6 @@ title: The Beginning
 date: 2020-09-06 21:46
 categories: coding
 ---
-*by josiahkeeler*
-
 Welcome to the first dev log! I will be trying to keep to track of the work I do every day and what I learned. Useful links, cool stuff I found, eureka moments. Hopefully I find a better way to automate the process of creating these files, but for now a simple bash script will work.
 
 My inspiration for using Markdown was from this [blog post](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e) on amazing VSCode extensions. One extension, [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced), let's me view my formatting in real time. I learned all my Markdown formatting from Reddit. Time to put it to good use.
