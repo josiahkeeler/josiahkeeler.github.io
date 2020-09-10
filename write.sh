@@ -7,7 +7,7 @@ read CATEGORY
 NAME=$(echo $TITLE | tr " " "-")
 FILE=$DATE-$NAME.md
 echo -e "---\n\
-layout:post\n\
+layout: post\n\
 title: $TITLE\n\
 date: $DATE $TIME\n\
 categories: $CATEGORY\n\
