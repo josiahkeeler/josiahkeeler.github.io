@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Automating Post Creation
 date: 20-09-10 08:52
 categories: coding
