@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automating Post Creation
-date: 20-09-10 08:52
+date: 2020-09-10 08:52
 categories: coding
 ---
 I tried putting this post up last night, but my sleep deprived brain said otherwise. The script I wrote to automatically name the files and add dates didn't work! I looked over the code after 6 hours of sleep and instantly found the issue. **One mislabeled variable.**

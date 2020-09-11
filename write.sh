@@ -1,4 +1,4 @@
-DATE=$(date +"%y-%m-%d")
+DATE=$(date +"%Y-%m-%d")
 TIME=$(date +"%H:%M")
 echo Enter a title
 read TITLE

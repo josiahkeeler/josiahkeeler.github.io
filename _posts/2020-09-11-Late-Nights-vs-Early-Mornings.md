@@ -2,7 +2,7 @@
 \ 
 layout: post
 title: Late Nights vs Early Mornings
-date: 20-09-11 00:03
+date: 2020-09-11 00:03
 categories: life
 ---
 *The blue glow of a monitor. The click clack of keys on a keyboard. Surrounded by nothing but endless lines of code and only limited by the imagination.*
