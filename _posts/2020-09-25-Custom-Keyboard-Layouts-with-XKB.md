@@ -35,7 +35,7 @@ The first post explains the structure better than I ever can. What's important i
 
 `key <CAPS> { [ ISO_Level3_Shift            ] };` is pretty cool. It turns your CAPS LOCK key into a 3rd level shift key. Similar to how you can type a capital J when  holding shift and pressing **j**, holding CAPS LOCK will go to the 3rd entry in the config file and use that key.
 
-[*Modifier keys*](/images/stack.png)
+![*Modifier keys*](/images/stack.png)
 
 - No modifiers (level 1)
 - 2nd level modifier, a.k.a. shift (level 2)
@@ -46,7 +46,7 @@ from [AskUbuntu](https://askubuntu.com/questions/41213/what-does-key-to-choose-5
 
 After writing up the layout and adding it to the `evdev.xml` file, I restarted X11 and *voila* my custom layout appeared!
 
-[*The IJKL layout*](/images/layout.png)
+![*The IJKL layout*](/images/layout.png)
 
 Thanks internet! I'm probably going to write a small bash script to automatically install my layout so I can add it to any computer with one click. Peak efficiency am I right? *It took me 2 hours to write 12 lines of code*
 
