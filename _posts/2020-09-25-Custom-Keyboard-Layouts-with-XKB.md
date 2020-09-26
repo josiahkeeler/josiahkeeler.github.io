@@ -46,7 +46,7 @@ from [AskUbuntu](https://askubuntu.com/questions/41213/what-does-key-to-choose-5
 
 After writing up the layout and adding it to the `evdev.xml` file, I restarted X11 and *voila* my custom layout appeared!
 
-[*The IJKL layout*](/images/layout.png)
+![*The IJKL layout*](/images/layout.png)
 
 Thanks internet! I'm probably going to write a small bash script to automatically install my layout so I can add it to any computer with one click. Peak efficiency am I right? 
 *It took me 2 hours to write 12 lines of code T-T*
